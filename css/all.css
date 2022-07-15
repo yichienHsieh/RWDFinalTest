@@ -107,7 +107,7 @@ header {
 .banner {
     justify-content: center;
     align-items: center;
-    background-image: url('images/header_dt.png');
+    background-image: url('../images/header_dt.png');
     background-repeat: no-repeat;
     background-position: center; 
     height: 364px;
