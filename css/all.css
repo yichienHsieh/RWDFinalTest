@@ -44,7 +44,7 @@ nav {
 }
 
 .logo a {
-    background-image: url(images/logo_w@svg.svg); 
+    background-image: url(images/logo_w.svg); 
     width: 120px;  
     height: 24px;
     display: block;
@@ -107,7 +107,7 @@ header {
 .banner {
     justify-content: center;
     align-items: center;
-    background-image: url(images/header_desktop.png);
+    background-image: url(images/header_dt.png);
     background-repeat: no-repeat;
     background-position: center; 
     height: 364px;
@@ -116,7 +116,7 @@ header {
 
 @media (max-width: 375px) {
     .banner {
-        background-image: url(images/header_mobile.png);
+        background-image: url(images/header_mb.png);
     }
 }
 
@@ -846,7 +846,7 @@ footer h3{
 }
 
 .social h2 a {
-    background-image: url(images/logo_l@svg.svg);
+    background-image: url(images/logo_l.svg);
     background-repeat: no-repeat;
     width: 245px;
     height: 49px;
